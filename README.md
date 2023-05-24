@@ -1,0 +1,6 @@
+- 口座 Account
+  - id
+  - name
+  - balance
+- ユーザ User
+- 銀行 Bank
